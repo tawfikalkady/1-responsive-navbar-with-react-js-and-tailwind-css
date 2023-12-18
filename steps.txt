@@ -1,0 +1,14 @@
+npm create vite
+
+npm run dev
+
+npm install -D tailwindcss postcss autoprefixer
+
+npx tailwindcss init -p
+
+rsc //create function with its call
+
+
+https://github.com/tailwindlabs/heroicons
+
+npm install @heroicons/react
